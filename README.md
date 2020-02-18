@@ -9,7 +9,7 @@ John Canque
 
 
 ## Project Goals
-The goal of this project is to make it easier to choose a mutual fund and ETFs with a content-based item to item fund recommendar based on the features of the fund. With funds closing, underperforming,  and the sheer amount of investment choices, this recommender allows you to choose a fund based on features that matter to you. As a secondary power of the recommender is seeing what the competitors of your fund should be.
+The goal of this project is to make it easier to choose a mutual fund and ETFs with a content-based item to item fund recommender based on the features of the fund. With funds closing, underperforming,  and the sheer amount of investment choices, this recommender allows you to choose a fund based on features that matter to you. As a secondary power of the recommender is seeing what the competitors of your fund should be.
 
 
 ## Data Collection <a name='data'></a>
